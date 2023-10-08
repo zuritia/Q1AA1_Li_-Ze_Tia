@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+
+* {
+    margin: 0px;
+    padding: 1px;
+}
+
+
+
+.banner {
+    background-color: rgb(255, 233, 242);
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 6vh;
+    
+}
+
+.banner a {
+    float: right;
+    text-decoration: none;
+    color: rgb(255, 233, 242);
+}
+
+.footer {
+    background-color:rgb(255, 233, 242);
+    height: 6vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer p {
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: smaller;
+}
+
+.footerlinks {
+    float: right;
+}
+
+
+.main {
+    background-image: url('Download\ premium\ image\ of\ \ Colorful\ pastel\ cloud\ pattern\ background\ about\ sky\ abstract\ pastel\,\ cloudy\ sky\,\ white\ wallpaper\ picture\,\ pastel\ clouds\,\ and\ pattern\ 2701653.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 90vh;
+}
+
+.maintext {
+    padding: 10vh;
+    top: 10%;
+    color: rgb(255, 92, 184);
+}
+
+.maintext a {
+    font-family: Georgia, 'Times New Roman', Times, serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    background-color: rgb(255, 103, 186)
+    color: white;
+    padding: 1em;
+    display: inline-block;
+}
+
+.maintext h1 {
+    color: rgb(255, 103, 186);
+}
+
+.maintext h1 span {
+    color: rgb(255, 181, 227);
+}
+
+
+.gallery {
+    background-color: rgb(255, 204, 234);
+    font-family: 'Cedarville Cursive', cursive;
+    height: 90vh;
+    color:rgb(255, 131, 193);
+}
+
+.gallery h1 span {
+    color: rgb(255, 113, 191);
+}
+
+.pics {
+    text-align: center;
+}
